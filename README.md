@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
+  <img src="https://img.shields.io/badge/Intellij IDEA-000000.svg?style=for-the-badge&logo=Intellij IDEA&logoColor=white" />
   
 </div>
 
