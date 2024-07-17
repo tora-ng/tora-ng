@@ -29,10 +29,13 @@
   <img src="https://img.shields.io/badge/apachetomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=white" />
 </div>
 
-<a href="https://github.com/devxb/gitanimals" align="center">
-<img
+<a href="https://github.com/devxb/gitanimals">
+  <div align="center">
+    <img
   src="https://render.gitanimals.org/farms/tora-ng"
   width="600"
   height="300"
-/>
+    />
+  </div>
+
 </a>
