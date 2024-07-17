@@ -18,3 +18,9 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
   
 </div>
+
+<h3 align="center">🛠 Server 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/apachetomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=white" />
+</div>
