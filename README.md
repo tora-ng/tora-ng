@@ -27,7 +27,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/apachetomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=white" />
-</div>
+</div></br>
 
 <a href="https://github.com/devxb/gitanimals">
   <div align="center">
