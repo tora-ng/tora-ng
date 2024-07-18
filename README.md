@@ -1,6 +1,8 @@
 <h3 align="center">🎇 Me 🎇</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white" />
+  <a href="https://velog.io/@har_xx/posts">
+    <img src="https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
 </div>
 
 
